@@ -14,6 +14,6 @@ Attempt to represent all the 15-bit colors
 
 ![](https://github.com/TomCarton/Colors/blob/master/result/res_disk.png)
 
-![](https://github.com/TomCarton/Colors/blob/master/result/res_disk2.png)
-
 ![](https://github.com/TomCarton/Colors/blob/master/result/res_disk3.png)
+
+![](https://github.com/TomCarton/Colors/blob/master/result/res_disk2.png)
