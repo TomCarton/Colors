@@ -1,6 +1,6 @@
 # Colors
 
-Attempt to represent all the 15-bit colors
+Attempt to represent all the 15-bit colors in nice and unconventional ways
 
 ![](https://github.com/TomCarton/Colors/blob/master/result/res_random.png)
 
